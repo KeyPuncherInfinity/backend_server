@@ -71,6 +71,6 @@ app.get('/friend', async (request, response) => {
     response.send(result)
 })
 
-http.listen(4000, () => {
+http.listen(8080, () => {
     console.log('Listening on http://localhost:4000')
 })
