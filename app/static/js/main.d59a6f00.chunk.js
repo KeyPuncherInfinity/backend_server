@@ -1,0 +1,2 @@
+(this.webpackJsonphyperlinks=this.webpackJsonphyperlinks||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(0);var r=n(2),s=n.n(r),h=n(3);s.a.render(Object(h.jsx)("a",{href:"./next-page.html",children:"Next Page"}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.d59a6f00.chunk.js.map
