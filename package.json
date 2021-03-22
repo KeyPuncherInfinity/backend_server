@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "SET PGUSER=Abdul Aziz&& SET PGHOST=localhost&& SET PGPASSWORD=14964&& SET PGDATABASE=wip_text_messenger&& SET PGPORT=5432&& nodemon socket_server.js",
-    "script1": "SET PGUSER=Abdul Aziz&& SET PGHOST=localhost&& SET PGPASSWORD=14964&& SET PGDATABASE=wip_text_messenger&& SET PGPORT=5432&& nodemon index.js"
+    "script1": "SET PGUSER=Abdul Aziz&& SET PGHOST=localhost&& SET PGPASSWORD=14964&& SET PGDATABASE=wip_text_messenger&& SET PGPORT=5432&& nodemon index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
